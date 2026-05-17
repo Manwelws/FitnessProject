@@ -26,7 +26,6 @@ A binary classification project to predict whether an individual is physically f
 | Random Forest | **74.8%** |
 | Decision Tree | **73.0&%** | 
 
-> Fill in the accuracy column from your model comparison bar chart
 
 ## Tools
 `Python` `Scikit-learn` `Imbalanced-learn` `Pandas` `Matplotlib` `Seaborn`
